@@ -3,7 +3,7 @@
         <assignable_by/>
         <can_delegate>true</can_delegate>
         <description>admin acc</description>
-        <elevated_privilege>true</elevated_privilege>
+        <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_1122642_wish_lis.admin</name>
@@ -14,13 +14,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-23 18:24:56</sys_created_on>
         <sys_id>ecb201a5931b3110d811f15efaba106c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_1122642_wish_lis.admin</sys_name>
         <sys_package display_value="Wish List" source="x_1122642_wish_lis">c13058e993173110d811f15efaba106d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">c13058e993173110d811f15efaba106d</sys_scope>
         <sys_update_name>sys_user_role_ecb201a5931b3110d811f15efaba106c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-23 18:25:17</sys_updated_on>
+        <sys_updated_on>2023-12-24 10:22:23</sys_updated_on>
     </sys_user_role>
 </record_update>
